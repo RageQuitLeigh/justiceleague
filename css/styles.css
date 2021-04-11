@@ -1,0 +1,126 @@
+
+
+.top-container{
+  margin: 0;
+  text-align: center;
+    background-color: black;
+
+}
+
+.content-container{
+
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  line-height: 2;
+  background-color: grey;
+}
+
+.ratings-container{
+
+  width: 75%;
+  margin: auto;
+  background-color: grey;
+
+}
+
+.footer-container{
+    background-color: black;
+margin-left: auto;
+margin-bottom: 0;
+text-align: center;
+padding-bottom: 50px;
+}
+
+.table{
+
+  margin: auto;
+}
+
+.ratingimages{
+
+  width: 150px;
+  margin: 10px 20px 0 20px;
+
+}
+
+h1{
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 900;
+  font-size: 8rem;
+margin-top: 0;
+margin-bottom: 0;
+}
+
+h2{
+  color:white;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: lighter;
+  font-size: 2rem;
+  margin-bottom: 0;
+  margin-top:50px;
+}
+
+h3{
+  color: white;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+  font-size: 1.2rem;
+  padding-bottom: 50px;
+  margin-top: 20px;
+  line-height: 1.6;
+
+}
+
+
+h4{
+  font-size: 3.5rem;
+  text-align: center;
+  margin-top: 0;
+  color: white;
+}
+
+p{
+  font-family: 'Open Sans', sans-serif;
+font-weight: lighter;
+color: white;
+margin-top: 50px;
+
+}
+
+body{
+
+  background-color: grey;
+  margin: 0;
+}
+
+a{
+  color: grey;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.leagueimage{
+  width: 100%;
+  margin:50;
+}
+
+.logoimage{
+  margin: 50px auto 50px auto;
+}
+
+.videoidea{
+  position: relative;
+ width: 100%;
+ padding-bottom: 56.25%;
+}
+
+.video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
